@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+section.subscribe
+{
+    padding: 0rem;
+    height: 100vh;
+    background-color: #540D6E;
+}
+.subscribe img
+{
+    width: 50rem;
+}
+.subscribe h1
+{
+    font-family: 'gotham pro';
+    font-size: 4rem;
+    color: white;
+    padding: 4rem;
+    margin: 0;
+}
+.subscribe p
+{
+    font-size: 2rem;
+}
